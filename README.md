@@ -1,5 +1,3 @@
-# solution
-
 # Solução desenvolvida utilizando JavaScript, para roda-la é necessário ter o Node.JS instalado.
 
 # Clone este repositório
