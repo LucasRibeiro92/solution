@@ -1,4 +1,4 @@
-# Solução desenvolvida utilizando JavaScript, para roda-la é necessário ter o Node.JS instalado.
+# Solução desenvolvida utilizando JavaScript, para roda-la é necessário ter o Node.JS instalado e seguir os seguintes passos:
 
 # Clone este repositório
 
